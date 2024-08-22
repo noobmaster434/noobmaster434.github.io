@@ -1,5 +1,5 @@
 function showYesMessage() {
-    document.getElementById('response').textContent = 'I knew you would say yes, wait for more updates. Oh sorry! I dont want to keep you waiting, meet me at the Airport';
+    document.getElementById('response').textContent = 'I knew you would say yes❣️';
     document.body.style.backgroundImage = "url('bg2.png')"; // Replace with your second background image URL
 }
 

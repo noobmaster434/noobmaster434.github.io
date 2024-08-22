@@ -1,6 +1,6 @@
 function showYesMessage() {
     document.getElementById('response').textContent = 'I knew you would say yes❣️';
-    document.body.style.backgroundImage = "url('bg2.png')"; // Replace with your second background image URL
+    document.body.style.backgroundImage = "url('bg2 new.png')"; // Replace with your second background image URL
 }
 
 function moveButton() {
